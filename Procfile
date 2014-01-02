@@ -1,1 +1,1 @@
-web: python formbuilder.py
+web: gunicorn app:app
